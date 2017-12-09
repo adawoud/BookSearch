@@ -4,5 +4,5 @@ BookSearch uses the Google Vision and Books APIs to scan the barcodes of books a
 
 ## Screenshots
 
-[](https://github.com/odinuts/BookSearch/blob/master/Screenshot_20171205-175252.png)
-[](https://github.com/odinuts/BookSearch/blob/master/Screenshot_20171205-175313.png)
+![](https://github.com/odinuts/BookSearch/blob/master/Screenshot_20171205-175252.png)
+![](https://github.com/odinuts/BookSearch/blob/master/Screenshot_20171205-175313.png)
